@@ -1,6 +1,3 @@
-Here’s the revised README with the correct information:
-
----
 
 # ORM E-commerce Back End
 
