@@ -139,7 +139,3 @@ For any questions, please contact me with the information below:
 ## Acknowledgement
 
 I used an AI assistant to debug and explore better coding options.
-
----
-
-This should now correctly reflect your project details.
